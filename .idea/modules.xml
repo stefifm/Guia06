@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Guia05/.idea/Guia05.iml" filepath="$PROJECT_DIR$/../Guia05/.idea/Guia05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Guia06.iml" filepath="$PROJECT_DIR$/.idea/Guia06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Guia07/.idea/Guia07.iml" filepath="$PROJECT_DIR$/../Guia07/.idea/Guia07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Guia08/.idea/Guia08.iml" filepath="$PROJECT_DIR$/../Guia08/.idea/Guia08.iml" />
+    </modules>
+  </component>
+</project>
